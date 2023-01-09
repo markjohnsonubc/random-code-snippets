@@ -1,5 +1,4 @@
 # source functions needed for hydrograph plotting
-source("https://github.com/cran/EcoHydRology/raw/master/data/OwascoInlet.rda")
 source("https://raw.githubusercontent.com/cran/EcoHydRology/d152909c12e6bb0c1f16b987aa7f49737cdcf3d3/R/hydrograph.R")
 
 # source functions needed for PET_fromTemp.R
