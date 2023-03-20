@@ -18,3 +18,6 @@ source("https://raw.githubusercontent.com/cran/EcoHydRology/d152909c12e6bb0c1f16
 
 # source functions needed for Baseflow Separation
 source("https://raw.githubusercontent.com/cran/EcoHydRology/d152909c12e6bb0c1f16b987aa7f49737cdcf3d3/R/BaseflowSeparation.R")
+
+# source functions needed to load MOPEX datasets
+source("https://raw.githubusercontent.com/ropensci/hddtools/master/R/MOPEX.R")
